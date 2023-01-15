@@ -278,18 +278,21 @@ main {
 footer {
     width: 100%;
     margin: 150px 0;
-}
-
-.foot {
-    text-align: center;
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 120px;
+}
+
+.foot {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
     padding: 15px;
     background-color: #FFF4E7;
     flex-wrap: wrap;
+    border-radius: 10px;
 }
 
 /* --------------------media_query------------------*/
