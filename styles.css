@@ -94,7 +94,10 @@ h2 {
 main {
     max-width: 80%;
 }
-
+.orange_left{
+    border-left: 5px solid #FF900E;
+    padding-left: 15px;
+}
 .feature_container {
     margin: 30px 0;
     width: 100%;
