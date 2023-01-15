@@ -258,7 +258,7 @@ main {
 
 /* ---------------------sponsors------------------*/
 .sponsors_container {
-    margin: 60px auto;
+    margin: 100px auto;
     text-align: center;
 }
 
@@ -361,7 +361,7 @@ footer {
         height: 150px;
         width: 300px;
         position: relative;
-        bottom: 9rem;
-        left: 36rem;
+        bottom: 11rem;
+        left: 35rem;
     }
 }
